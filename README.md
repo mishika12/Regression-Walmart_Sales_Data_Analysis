@@ -1,4 +1,4 @@
-## Walmart retail sales data analyis and prediction
+## Walmart retail sales data analysis and prediction
 
 ### <ins> Introduction
 One of the leading retail stores in the US, Walmart is facing a challenge due to unforeseen demands and runs out of stock some times, due 
