@@ -26,4 +26,4 @@ b) Build the 3 prediction models to forecast demand and evaluate the most accura
 2. Decision Trees
 3. Random Forest
 
-The ipynb and html versions of the code are in 'notebooks'.
+The ipynb and html versions of the code are in 'Notebook'.
