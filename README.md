@@ -14,7 +14,7 @@ The objective is to determine the factors affecting the sales and to analyze the
 In this project, we undertake the following two tasks:
 
 a) Answer the following questions: 
-1. Which store has maximum sales
+1. Which store has maximum sales?
 2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation?
 3. Which store/s has good quarterly growth rate in Q3’2012?
 4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for 
